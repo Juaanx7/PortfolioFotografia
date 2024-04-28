@@ -126,12 +126,12 @@ section{
     box-sizing: border-box;
     min-height: fit-content;
 }
-.section-container, #profile{
+.section-container, #Profile{
     display: flex;
 }
 
 /* Profile Section */
-#profile{
+#Profile{
     justify-content: center;
     gap: 5rem;
     height: 80vh;
@@ -253,7 +253,7 @@ section{
 }
 
 /* Experience Section */
-#experience{
+#Experience{
     position: relative;
 }
 .experience-sub-title{
