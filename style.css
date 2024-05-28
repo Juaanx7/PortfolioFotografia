@@ -216,7 +216,7 @@ section{
 .about-containers{
     gap: 2rem;
     margin-bottom: 2rem;
-    margin-top: 2r3m;
+    margin-top: 4rem;
 }
 .about-details-container{
     justify-content: center;
@@ -255,6 +255,7 @@ section{
 /* Experience Section */
 #Experience{
     position: relative;
+    margin-top: 6rem;
 }
 .experience-sub-title{
     color: rgb(85, 85, 85);
